@@ -1,0 +1,8 @@
+find the maximum number in each level of the binary tree
+
+input:-
+1. enter the size of the tree.
+2. enter the numbers.
+
+output:-
+- prints the largest number in each level in the tree.
